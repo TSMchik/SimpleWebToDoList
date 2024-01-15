@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="{%" />
+            <item index="1" class="java.lang.String" itemvalue="if" />
+            <item index="2" class="java.lang.String" itemvalue="todo[" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="Flask" />
+            <item index="1" class="java.lang.String" itemvalue="Bootstrap_Flask" />
+            <item index="2" class="java.lang.String" itemvalue="Flask-Gravatar" />
+            <item index="3" class="java.lang.String" itemvalue="WTForms" />
+            <item index="4" class="java.lang.String" itemvalue="Flask_WTF" />
+            <item index="5" class="java.lang.String" itemvalue="Flask_CKEditor" />
+            <item index="6" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="7" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="8" class="java.lang.String" itemvalue="Flask_Login" />
+            <item index="9" class="java.lang.String" itemvalue="flask_sqlalchemy" />
+            <item index="10" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="11" class="java.lang.String" itemvalue="gunicorn" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E101" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.__setitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
